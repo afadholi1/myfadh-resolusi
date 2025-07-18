@@ -4,6 +4,7 @@ RENCANA KONTEN MYFADH
   * ES6
   * Framwork Javascript
     > Vue
+    > Reach
 - Struktur Data Dasar
 - PHP Frameworks
     > Laravel
