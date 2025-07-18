@@ -3,7 +3,10 @@ RENCANA KONTEN MYFADH
 - Javascript
   * ES6
   * Framwork Javascript
+    > Vue
 - Struktur Data Dasar
 - PHP Frameworks
+    > Laravel
 - Interview
 - Vlogs
+- Python
